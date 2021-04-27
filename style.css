@@ -58,7 +58,7 @@ label {
     width: 52px;
     height: 27px;
     background: grey;
-    float: right;
+    float: left;
     border-radius: 100px;
     position: relative;
 }
