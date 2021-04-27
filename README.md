@@ -6,7 +6,7 @@
 
 <img alt="gif" src="https://github.com/Hebert324/Darkmode/blob/main/gif/Darkmode.gif">
 
-##Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 - HTML
 - CSS
