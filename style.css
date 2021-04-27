@@ -17,6 +17,7 @@ body {
 }
 
 .container {
+    width: 650px;
     background-color: var(--bg-panel);
 
     margin: 5em;
