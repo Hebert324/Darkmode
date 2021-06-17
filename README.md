@@ -1,4 +1,4 @@
-# DarkMode
+<h1 align="center"> DarkMode <h1>
 
 ### Inserindo modo escuro na página.
 
